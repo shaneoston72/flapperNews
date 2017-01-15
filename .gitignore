@@ -1,2 +1,3 @@
 bower_components/
-
+node_modules/
+flapper-news/node_modules
